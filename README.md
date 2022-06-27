@@ -1,5 +1,5 @@
 # tainted-company
-Tainted company 国内职场污点公司名录（不包括港澳台）
+Tainted company 职场污点公司名录
 
 # 本仓库专用于记录在职场中的具有污点行为的公司
 
